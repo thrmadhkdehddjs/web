@@ -5,7 +5,7 @@ import pandas as pd
 
 # --- 1. 페이지 기본 설정 ---
 st.set_page_config(
-    page_title="Streamlit 깐따삐아",
+    page_title="깐따삐아",
     page_icon="🔮",
     layout="wide"
 )
